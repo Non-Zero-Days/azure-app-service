@@ -58,11 +58,11 @@ Click `Next`. You should now be on the `Docker` tab of the `Create Web App` expe
 
 We will select `Single Container` for Options and `Private Registry` for the Image Source.
 
-For Server URL enter `https://`
+For Server URL enter `https://ghcr.io`
 
 Leave Username and Password blank.
 
-For `Image and Tag` enter `ghcr.io/boredtweak/non-zero-packages:latest` or your own username, image, and tag combination if using your own GitHub Package.
+For `Image and Tag` enter `boredtweak/non-zero-packages:latest` or your own username, image, and tag combination if using your own GitHub Package.
 
 Click `Review + create` then click `Create` on the subsequent page. The portal will inform you that deployment is in progress and updates automatically once the deployment is complete.
 
